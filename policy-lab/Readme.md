@@ -1,6 +1,6 @@
-# Azure Policy Lab – Cloud Governance Gone Rogue
+# Azure Policy Lab - CST8919 Lab 3
 
-## 📘 Summary of the Lab
+## Summary of the Lab
 
 This lab, part of CST8919 – DevOps Security and Compliance, involved using **Azure Policy** to implement governance controls for a fictional company called **MapleTech Solutions**. As a newly hired Cloud Security Engineer, my task was to bring order to cloud deployments by enforcing strict organizational policies using custom Azure policies and initiatives.
 
@@ -12,7 +12,7 @@ This lab, part of CST8919 – DevOps Security and Compliance, involved using **A
 
 ---
 
-## 🔐 Explanation of Each Policy
+## Explanation of Each Policy
 
 ### 1. **Only-CanadaCentral**
 - **Effect**: Deny
@@ -31,7 +31,7 @@ This lab, part of CST8919 – DevOps Security and Compliance, involved using **A
 
 ---
 
-## ⚙️ Challenges and Lessons Learned
+## Challenges and Lessons Learned
 
 ### Challenges Faced:
 - Azure Portal did not always show the custom policy category (e.g., “Compliance”) on second policy creation.
@@ -45,4 +45,6 @@ This lab, part of CST8919 – DevOps Security and Compliance, involved using **A
 
 ---
 
-🎥 A full demo video showing policy creation, assignment, and test results is included in this lab’s submission.
+## Demo Video:
+
+https://www.youtube.com/watch?v=sTIg5bjeQB0
